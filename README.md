@@ -6,3 +6,7 @@ This repository stored the NAPROCK 2023 contest document, material, and software
 
 - [Contest Document](#Document)
 - [Contest Server](#Server)
+
+# Document
+
+# Server
